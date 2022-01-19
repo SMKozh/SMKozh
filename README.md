@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Sergey 👋
 
 <p align='center'>   
    <a href="https://t.me/smkozh">
@@ -6,6 +6,12 @@
    </a>
 <p align='center'>
 
+   ## 🛠 Technical Stack
+*   Java
+*   MySQL, Flyway
+*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, and so on...  
+*   GitHub
+   
 <!--
 **SMKozh/SMKozh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
